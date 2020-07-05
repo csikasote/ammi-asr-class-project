@@ -1,4 +1,4 @@
-## Bemba Language Speech Recognition ##
+## Speech Recognition - `Bemba` language dataset##
 This repository contains the 2 hours speech recognition dataset recorded in Bemba language. The native language spoken by the majority of people in the north part of Zambia. The dataset is split into 1hr `dev` and 1hr `test` datasets as per directive by Prof. Laurent Besacier.
 
 ### Contents
