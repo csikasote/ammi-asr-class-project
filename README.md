@@ -14,7 +14,7 @@ This repository contains the 2 hours speech recognition dataset recorded in Bemb
 Several challenges were encoutered during the dataset building process:
 - The scarcity of the Bemba literature on the internet. But was fortunate to find an online Bible in Bemba language. 
 - Difficult to read and pronounce some of the words in Bemba. Surely, this could have negatively affected the quality of recordings.
-- The Lig-Aikuma application was crushing during recording sessions. This  slowed the process of recording and frustatitng at times.
+- The Lig-Aikuma application was crushing during recording sessions. This  slowed the process of recording and frustrating at times. 
 
 ### Other comments
 - Speech recognition course was very interesting especially that it was coupled with a project that gave me the practical aspect of gathering data and coming up with speech dataset for ASR. Huge shout outs to amazing lecturers for sharing their knowledge.
